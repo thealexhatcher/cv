@@ -1,4 +1,5 @@
 # Alex B. Hatcher
+https://www.linkedin.com/in/thealexhatcher  
 alex.hatcher@slalom.com
 ## Goals
 To build great software solutions.  
